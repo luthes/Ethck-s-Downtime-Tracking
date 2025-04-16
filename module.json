@@ -1,5 +1,4 @@
 {
-    "name": "downtime-ethck",
     "id": "downtime-ethck",
     "title": "Ethck's 5e Downtime Tracking",
     "description": "Adds a section to the character sheet to keep track of downtime activities.",
@@ -10,7 +9,7 @@
     "compatibility": {
         "minimum": 11,
         "verified": 11,
-        "maximum": 12
+        "maximum": 13
     },
     "system": ["dnd5e", "pf1"],
     "relationships": {
@@ -35,10 +34,10 @@
     "media": [
         {
             "type": "cover",
-            "url": "https://raw.githubusercontent.com/Ethck/Ethck-s-Downtime-Tracking/master/images/Cover.png"
+            "url": "https://raw.githubusercontent.com/luthes/Ethck-s-Downtime-Tracking/master/images/Cover.png"
         }
     ],
-    "bugs": "https://github.com/Ethck/Ethck-s-Downtime-Tracking/issues",
+    "bugs": "https://github.com/luthes/Ethck-s-Downtime-Tracking/issues",
     "flags": {
         "allowBugReporter": true
     }
